@@ -1,0 +1,5 @@
+## IDE FILES
+.idea/
+
+##CONFIG FILES
+firebase-config.js
